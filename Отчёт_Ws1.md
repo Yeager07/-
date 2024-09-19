@@ -69,7 +69,7 @@
 
 2.10 Назначьте на платформу Stage компонент Rigidbody и отключите гравитацию (Use Gravity). Проверьте, что произойдет при запуске сцены.
 
-## Назначид на платформу Stage компонент Rigidbody и отключил гравитацию
+## Назначил на платформу Stage компонент Rigidbody и отключил гравитацию
 
 ![image](https://github.com/user-attachments/assets/1b770752-b049-46ec-bbdb-9ab6e8c9bd98)
 
