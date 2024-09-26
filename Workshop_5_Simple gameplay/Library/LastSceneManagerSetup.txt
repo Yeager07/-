@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Workshop_5_Simple gamplay.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
